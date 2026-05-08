@@ -1,0 +1,13 @@
+{
+  "itemGroup.aspectofelements": "Example Mod Tab",
+  "block.aspectofelements.example_block": "Example Block",
+  "item.aspectofelements.example_item": "Example Item",
+
+  "aspectofelements.configuration.title": "Aspect Of Elements Configs",
+  "aspectofelements.configuration.section.aspectofelements.common.toml": "Aspect Of Elements Configs",
+  "aspectofelements.configuration.section.aspectofelements.common.toml.title": "Aspect Of Elements Configs",
+  "aspectofelements.configuration.items": "Item List",
+  "aspectofelements.configuration.logDirtBlock": "Log Dirt Block",
+  "aspectofelements.configuration.magicNumberIntroduction": "Magic Number Text",
+  "aspectofelements.configuration.magicNumber": "Magic Number"
+}
